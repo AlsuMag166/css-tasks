@@ -1,0 +1,66 @@
+.wrapper {
+	position: relative;
+    width: 300px;
+	height: 150px;
+    margin-bottom: 200px;
+	border:1px dashed #ccc;
+}
+
+.box {
+	position: absolute;
+    width: 40px;11
+	height: 0px;
+}
+
+.red {
+    border: 1px solid red;
+    top: 50px;
+    left: 40px;   
+}
+
+.blue {
+    border: 1px solid blue;
+    top: 50px;
+    left: 100px;
+}
+
+
+.green {
+    border: 1px solid green;
+    top: 50px;
+	left: 160px;	
+}
+
+/* Задание 3 */
+.ladder-red {
+	border: 1px solid red;
+    top: 40px;
+    left: 40px;
+}
+.ladder-blue{
+    border: 1px solid blue;
+    top: 60px;
+    left: 60px;   
+}
+.ladder-blue {
+    border:1px solid green;
+    top: 80px;
+    left: 80px;
+}
+
+/* Задание 4 */
+.fill-red{
+    border-color: #ff7b7b;
+    top: 40px;
+    left: 40px;
+}
+.fill-blue{
+	border-color:#7b7bff;
+    top: 60px;
+    left: 60px;
+}
+.fill-green{
+    border-color: #7bff7b;
+    top: 80px;
+    left: 80px;
+}
